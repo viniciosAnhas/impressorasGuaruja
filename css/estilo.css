@@ -1,0 +1,60 @@
+body{
+
+    background-image: url("../background/Fundo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: initial;
+    background-attachment: fixed;
+    color: yellowgreen;
+    text-shadow: 1px 1px black;
+    font-family: 'Orbitron', sans-serif;
+
+}
+
+a{
+
+    text-decoration: none;
+    color: yellowgreen;
+    text-shadow: 1px 1px black;
+
+}
+
+.Titulo{
+
+    margin-top: 1%;
+    text-align: center;
+
+}
+
+.Tabela{
+
+    margin-top: 1%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: outset;
+
+}
+
+p{
+
+    text-align: center;
+
+}
+
+.blink_me {
+
+    animation: blinker 1.5s linear infinite;
+    color: white;
+
+}
+  
+@keyframes blinker {
+
+    75% {
+
+      opacity: 0.25;
+
+    }
+
+}
