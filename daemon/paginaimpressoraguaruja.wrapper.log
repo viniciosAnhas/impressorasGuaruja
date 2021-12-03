@@ -1,0 +1,180 @@
+2021-10-21 14:02:43 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\paginasImpressoras\impressoras_Guaruja\node_modules\node-windows\lib\wrapper.js --file C:\paginasImpressoras\impressoras_Guaruja\server.js --scriptoptions= --log "Pagina Impressora Guaruja wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-21 14:02:44 - Started 2860
+2021-10-21 14:03:20 - Stopping paginaimpressoraguaruja.exe
+2021-10-21 14:03:20 - ProcessKill 2860
+2021-10-21 14:03:20 - Shutdown exception
+Message:Classe não registrada
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2021-10-21 14:03:45 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\paginasImpressoras\impressoras_Guaruja\node_modules\node-windows\lib\wrapper.js --file C:\paginasImpressoras\impressoras_Guaruja\server.js --scriptoptions= --log "Pagina Impressora Guaruja wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-21 14:03:45 - Started 5784
+2021-10-21 14:06:30 - Stopping paginaimpressoraguaruja.exe
+2021-10-21 14:06:30 - ProcessKill 5784
+2021-10-21 14:06:30 - Shutdown exception
+Message:Classe não registrada
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2021-10-21 14:06:54 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\paginasImpressoras\impressoras_Guaruja\node_modules\node-windows\lib\wrapper.js --file C:\paginasImpressoras\impressoras_Guaruja\server.js --scriptoptions= --log "Pagina Impressora Guaruja wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-21 14:06:54 - Started 5696
+2021-10-22 11:27:07 - Stopping paginaimpressoraguaruja.exe
+2021-10-22 11:27:07 - ProcessKill 5696
+2021-10-22 11:27:08 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2021-10-22 11:27:38 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\paginasImpressoras\impressoras_Guaruja\node_modules\node-windows\lib\wrapper.js --file C:\paginasImpressoras\impressoras_Guaruja\server.js --scriptoptions= --log "Pagina Impressora Guaruja wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-22 11:27:38 - Started 5656
+2021-10-25 13:18:05 - Stopping paginaimpressoraguaruja.exe
+2021-10-25 13:18:05 - ProcessKill 5656
+2021-10-25 13:18:05 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2021-10-25 13:18:29 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\paginasImpressoras\impressoras_Guaruja\node_modules\node-windows\lib\wrapper.js --file C:\paginasImpressoras\impressoras_Guaruja\server.js --scriptoptions= --log "Pagina Impressora Guaruja wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-25 13:18:29 - Started 5620
+2021-10-29 11:32:23 - Stopping paginaimpressoraguaruja.exe
+2021-10-29 11:32:23 - ProcessKill 5620
+2021-10-29 11:32:23 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2021-10-29 11:32:49 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\paginasImpressoras\impressoras_Guaruja\node_modules\node-windows\lib\wrapper.js --file C:\paginasImpressoras\impressoras_Guaruja\server.js --scriptoptions= --log "Pagina Impressora Guaruja wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-29 11:32:49 - Started 5620
+2021-11-10 18:35:07 - Stopping paginaimpressoraguaruja.exe
+2021-11-10 18:35:07 - ProcessKill 5620
+2021-11-10 18:35:07 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2021-11-10 18:35:41 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\paginasImpressoras\impressoras_Guaruja\node_modules\node-windows\lib\wrapper.js --file C:\paginasImpressoras\impressoras_Guaruja\server.js --scriptoptions= --log "Pagina Impressora Guaruja wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-11-10 18:35:41 - Started 5448
+2021-11-17 08:11:57 - Stopping paginaimpressoraguaruja.exe
+2021-11-17 08:11:57 - ProcessKill 5448
+2021-11-17 08:11:57 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2021-11-17 08:12:20 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\paginasImpressoras\impressoras_Guaruja\node_modules\node-windows\lib\wrapper.js --file C:\paginasImpressoras\impressoras_Guaruja\server.js --scriptoptions= --log "Pagina Impressora Guaruja wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-11-17 08:12:20 - Started 5648
+2021-11-17 08:12:51 - Stopping paginaimpressoraguaruja.exe
+2021-11-17 08:12:51 - ProcessKill 5648
+2021-11-17 08:12:51 - Shutdown exception
+Message:Classe não registrada
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2021-11-17 08:13:16 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\paginasImpressoras\impressoras_Guaruja\node_modules\node-windows\lib\wrapper.js --file C:\paginasImpressoras\impressoras_Guaruja\server.js --scriptoptions= --log "Pagina Impressora Guaruja wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-11-17 08:13:16 - Started 5572
+2021-11-29 08:12:54 - Stopping paginaimpressoraguaruja.exe
+2021-11-29 08:12:54 - ProcessKill 5572
+2021-11-29 08:12:54 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2021-11-29 08:13:22 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\paginasImpressoras\impressoras_Guaruja\node_modules\node-windows\lib\wrapper.js --file C:\paginasImpressoras\impressoras_Guaruja\server.js --scriptoptions= --log "Pagina Impressora Guaruja wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-11-29 08:13:22 - Started 5572
+2021-12-01 09:56:47 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\paginasImpressoras\impressoras_Guaruja\node_modules\node-windows\lib\wrapper.js --file C:\paginasImpressoras\impressoras_Guaruja\server.js --scriptoptions= --log "Pagina Impressora Guaruja wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-12-01 09:56:47 - Started 5284
+2021-12-03 12:30:03 - Stopping paginaimpressoraguaruja.exe
+2021-12-03 12:30:03 - ProcessKill 5284
+2021-12-03 12:30:04 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2021-12-03 12:30:35 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\paginasImpressoras\impressoras_Guaruja\node_modules\node-windows\lib\wrapper.js --file C:\paginasImpressoras\impressoras_Guaruja\server.js --scriptoptions= --log "Pagina Impressora Guaruja wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-12-03 12:30:35 - Started 5732
+2021-12-03 12:49:02 - Stopping paginaimpressoraguaruja.exe
+2021-12-03 12:49:02 - ProcessKill 5732
+2021-12-03 12:49:02 - Shutdown exception
+Message:Classe não registrada
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2021-12-03 12:49:29 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\paginasImpressoras\impressoras_Guaruja\node_modules\node-windows\lib\wrapper.js --file C:\paginasImpressoras\impressoras_Guaruja\server.js --scriptoptions= --log "Pagina Impressora Guaruja wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-12-03 12:49:30 - Started 5560
